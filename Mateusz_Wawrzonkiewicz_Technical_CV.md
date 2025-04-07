@@ -1,6 +1,4 @@
-- ## 📄 CV 2 – **Technical / Project Focus**
-
-  Idealne do współpracy z firmami technologicznymi, projektami DevOps, consultingiem e-commerce od strony operacyjnej.
+- ## 📄 CV – **Technical / Project Focus**
 
   ### **Mateusz Wawrzonkiewicz**
 
