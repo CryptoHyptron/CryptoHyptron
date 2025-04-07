@@ -37,7 +37,7 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [VPN RTSP Tunnel](https://github.com/CryptoHyptron/vpn-rtsp-tunnel) | Full WireGuard tunnel w/ camera stream proxy over CGNAT      |
 | [Nextcloud-Docker](https://github.com/CryptoHyptron/nextcloud-docker-setup) | Private cloud setup with external storage and MariaDB        |
-| [ExclusivePrams.com](https://exclusiveprams.com)             | Self-built WordPress + MySQL site for curated premium brands |
+| [exclusiveprams.com](https://exclusiveprams.com)             | Self-built WordPress + MySQL site for curated premium brands |
 
 ---
 
@@ -55,7 +55,7 @@ I work globally, remotely, and always with style.
 
 ## 📫 Let's connect
 
-- 🔗 [LinkedIn](www.linkedin.com/in/mateusz-wawrzonkiewicz-0a92a5163)  
+- 🔗 [LinkedIn](https://linkedin.com/in/mateusz-wawrzonkiewicz-0a92a5163)  
 - ✉️ cryptohyptron@gmail.com
 - 🌍 [exclusiveprams.com](https://exclusiveprams.com) *(under construction)*
 
