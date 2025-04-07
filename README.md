@@ -28,6 +28,9 @@
 
 ---
 
+📄 [View my Technical CV](./Mateusz_Wawrzonkiewicz_Technical_CV.md)
+
+
 ## 🚀 Featured Projects
 
 | Project                                                      | Description                                                  |
