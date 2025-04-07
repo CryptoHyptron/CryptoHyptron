@@ -15,7 +15,7 @@
 
   ### **Selected Projects**
 
-  **Exclusive Prams (Founder)**
+  **Exclusive Prams (CEO & Founder)**
   Infrastructure for high-end marketplace presence: A+ content, SEO, product lifecycle design, scaling strategy, automation.
 
   **Nextcloud on Docker (Private Cloud)**
